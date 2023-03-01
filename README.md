@@ -1,5 +1,4 @@
-# planetofjay.github.io
-🌎 personal website _ (In progress)
+# Personal website.
 
 majored in internet applications and web development at Fanshawe College, CA
 
